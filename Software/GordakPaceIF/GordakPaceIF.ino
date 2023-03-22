@@ -156,7 +156,7 @@ void loop() {
 
   // Double check this logic!!!
   /*
-  for (int i = 0; i < 8; i++) {
+  for (int i = 0; i < numOfTempIncrements+1; i++) {
     if (temp < rTemp[i] && temp > rTemp[i]) {
     digitalWrite(tenR[i], HIGH);  //output set to HIGH
     } else {
