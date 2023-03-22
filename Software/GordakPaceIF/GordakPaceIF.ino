@@ -224,7 +224,7 @@ void loop() {
 
   /*
   // Or using a for loop, for simplicity:
-  for (int i = 0; i < 8; i++) {
+  for (int i = 0; i < numOfTempIncrements+1; i++) {
     if (temp < rTemp[i]) {          // temp is less than r1Temp[i], so disable resistor
       digitalWrite(tenR[i], HIGH);  //output set to HIGH
     } else {                        // temp is greater than rTemp[i], so enable resistor
