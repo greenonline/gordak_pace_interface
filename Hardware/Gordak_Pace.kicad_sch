@@ -1694,7 +1694,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1652a905-1e0e-49ac-b724-19a773bdc1fd)
   )
-  (text "Thermocouple -" (at 262.89 120.65 0)
+  (text "PTC -" (at 262.89 120.65 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1df49825-ee97-4e9e-a77e-46a7a8050fdc)
   )
@@ -1711,7 +1711,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 36925298-805a-423e-8457-70acbfb65fa2)
   )
-  (text "Pace MBT 250 rework station with a Gordak handpiece and Arduino by Fodor Tibor\n\nhttps://www.youtube.com/watch?v=LTK6tuzxlCQ\n\nSchematic: M.G. Jenkins (Greenonline/Gr33nonline)"
+  (text "Pace MBT 250 rework station with a Gordak handpiece and Arduino by Fodor Tibor\n\nhttps://www.youtube.com/watch?v=LTK6tuzxlCQ\n\nSchematic: Greenonline/Gr33nonline"
     (at 180.34 180.34 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3a6717bd-de49-430f-83dd-460df42c5b09)
@@ -1768,7 +1768,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e371040b-a95b-4a87-b8a5-d2b3434656eb)
   )
-  (text "Thermocouple +" (at 262.89 113.03 0)
+  (text "PTC +" (at 262.89 113.03 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eccd4755-8500-4735-915a-8845e03468dd)
   )
@@ -1779,6 +1779,10 @@
   (text "Therm +" (at 261.62 149.86 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid fc3f0b72-330e-401e-adc6-a82f07b86092)
+  )
+  (text "Together, these resistors are 200R in total" (at 109.22 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fee36e5a-0ec4-4296-a559-b7b100b1335b)
   )
 
   (global_label "Thermocouple -" (shape input) (at 160.02 157.48 0) (fields_autoplaced)
