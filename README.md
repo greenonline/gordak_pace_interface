@@ -7,4 +7,4 @@ Reverse engineered from the video [Pace MBT 250 rework station with a Gordak han
 
 Much more info on [Gordak soldering iron on a Pace MBT 2xx](https://gr33nonline.wordpress.com/2023/03/21/gordak-soldering-iron-on-a-pace-mbt-2xx/).
 
-  [1]: https://i.stack.imgur.com/el0DF.png
+  [1]: https://i.stack.imgur.com/g8gDg.png
